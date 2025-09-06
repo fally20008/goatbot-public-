@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "༒𝑆𝐴𝑇𝑂𝑅𝑈 𝐺𝑂𝐽𝑂 𝐺𝑂𝐴𝑇𝐵𝑂𝑇༒",
+	"nickNameBot": "༒Muzan kibutsuji 𝐺𝑂𝐴𝑇𝐵𝑂𝑇༒",
 	"prefix": "€",
 	"adminOnly": {
 		"enable": false,
@@ -20,7 +20,7 @@
 	},
 	"adminBot": [
 		
-		"61564382117276"
+		"61577366696593"
 	],
 	"whiteListMode": {
 		"enable": false,
